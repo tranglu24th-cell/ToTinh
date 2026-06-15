@@ -1,0 +1,6 @@
+{
+  "name": "Lời Tỏ Tình",
+  "description": "Một trang web tỏ tình lãng mạn với các hiệu ứng trái tim và pháo hoa rực rỡ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

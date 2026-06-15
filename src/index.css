@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;600;700&family=Quicksand:wght@400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Quicksand", "Comfortaa", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Comfortaa", cursive, sans-serif;
+}
